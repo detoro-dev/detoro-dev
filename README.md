@@ -31,7 +31,7 @@
  
  <h1>🌍 Conectemos</h1>
  <p>
-   <a href="www.linkedin.com/in/david-de-toro-rodríguez" target="_blank">
+   <a href="https://linkedin.com/in/david-de-toro-rodríguez" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
  </p>
