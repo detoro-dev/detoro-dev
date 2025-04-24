@@ -31,14 +31,8 @@
  
  <h1>🌍 Conectemos</h1>
  <p>
-   <a href="https://linkedin.com/in/tuusuario" target="_blank">
+   <a href="www.linkedin.com/in/david-de-toro-rodríguez" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-   <a href="https://tuportafolio.dev" target="_blank">
-     <img src="https://img.shields.io/badge/-Portafolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
-   </a>
-   <a href="https://twitter.com/detoro_dev" target="_blank">
-     <img src="https://img.shields.io/badge/-@detoro_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
    </a>
  </p>
  
