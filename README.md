@@ -10,7 +10,7 @@
 
 
 
-<h3>🛠️ Tecnologías conocidas</h3>
+<h1>🛠️ Tecnologías conocidas</h1>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
@@ -21,18 +21,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </p>
 
----
 
-<h3>📊 GitHub Stats</h3>
+
+<h1>📊 GitHub Stats</h1>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=davidDtoro-dev&show_icons=true&theme=radical" alt="github stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidDtoro-dev&theme=radical" alt="github streak" />
 </p>
 
----
 
-<h3>🌍 Conectemos</h3>
+
+<h1>🌍 Conectemos</h1>
 <p>
   <a href="https://linkedin.com/in/tuusuario" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,7 +45,7 @@
   </a>
 </p>
 
----
+
 
 <h4>Gracias por pasarte por mi perfil 🙌</h4>
 
