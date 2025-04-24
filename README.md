@@ -20,7 +20,7 @@
  
  
  
- <h1>📊 GitHub Stats</h1>
+ <h1>📊 GitHub</h1>
  <p>
    <img src="https://github-readme-stats.vercel.app/api?username=detoro-dev&show_icons=true&theme=radical" alt="github stats" />
    <br />
