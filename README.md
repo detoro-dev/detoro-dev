@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hola, soy David</h1>
 <h1>Sobre mi 😃</h1>
 
-<p>Developer de día, debugger de noche. Café incluido ☕</p>
+<p>🎓DESARROLLADOR FULL STACK | DESARROLLADOR WEB</p>
+<p>Soy David de Toro Rodríguez, un desarrollador full stack apasionado por crear soluciones web eficientes e innovadoras. Recién graduado en Desarrollo de Aplicaciones Web por el I.E.S. Castelar, me enfoco en la mejora continua y la calidad del código. Disfruto enfrentando desafíos técnicos y colaborando en proyectos que generan un impacto positivo. Actualmente, me encuentro en Badajoz, España, y estoy abierto a nuevas oportunidades de colaboración y aprendizaje.</p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=davidDtoro-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 ---
 
