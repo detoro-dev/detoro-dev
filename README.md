@@ -9,9 +9,8 @@
 
 
 
----
 
-<h3>🛠️ Tech Stack</h3>
+<h3>🛠️ Tecnologías conocidas</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
