@@ -13,7 +13,7 @@
 <h1>🛠️ Tecnologías conocidas</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,bash,bootstrap,css,discord,docker,eclipse,firebase,gcp,git,github,gmail,html,idea,java,js,jquery,laravel,linux,maven,mongodb,mysql,notion,npm,nodejs,php,phpstorm,postgres,postman,powershell,py,spring,sqlite,stackoverflow,ubuntu,ts,vscode,wordpress,windows" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,angular,aws,azure,bash,bootstrap,css,discord,docker,eclipse,firebase,gcp,git,github,gmail,html,idea,java,js,jquery,laravel,linkedin,linux,maven,mongodb,mysql,notion,npm,nodejs,php,phpstorm,postgres,postman,powershell,py,spring,sqlite,stackoverflow,ubuntu,ts,vscode,wordpress,windows" />
   </a>
 </p>
  
