@@ -34,6 +34,9 @@
    <a href="https://linkedin.com/in/david-de-toro-rodríguez" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
+  <a href="https://davidtoro.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Portafolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
  </p>
  
  
