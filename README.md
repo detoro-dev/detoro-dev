@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hola, soy David</h1>
-<h3>Sobre mi 😃</h3>
-
----
+<h1>Sobre mi 😃</h1>
 
 <p>Developer de día, debugger de noche. Café incluido ☕</p>
 
