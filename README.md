@@ -22,9 +22,9 @@
  
  <h1>📊 GitHub Stats</h1>
  <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=davidDtoro-dev&show_icons=true&theme=radical" alt="github stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=detoro-dev&show_icons=true&theme=radical" alt="github stats" />
    <br />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidDtoro-dev&theme=radical" alt="github streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=detoro-dev&theme=radical" alt="github streak" />
  </p>
  
  
